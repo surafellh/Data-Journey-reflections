@@ -1,4 +1,4 @@
-# 3.4 SQL Syntax and Best Practices
+# SQL Syntax and Best Practices
 
 Writing clean SQL is more than just getting the query to run—it's about readability, maintainability, and collaboration.
 

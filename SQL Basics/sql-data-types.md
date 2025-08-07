@@ -1,4 +1,4 @@
-# 3.3 SQL Data Types
+# SQL Data Types
 
 SQL supports various data types to store different kinds of information.
 

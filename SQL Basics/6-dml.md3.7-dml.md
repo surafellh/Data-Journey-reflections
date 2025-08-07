@@ -1,4 +1,4 @@
-# 3.7 Data Manipulation Language (DML)
+# Data Manipulation Language (DML)
 
 DML commands are used to manage data within tables—adding, modifying, or removing records.
 

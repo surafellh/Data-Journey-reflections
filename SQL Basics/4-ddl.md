@@ -1,4 +1,4 @@
-# 3.5 Data Definition Language (DDL)
+# Data Definition Language (DDL)
 
 DDL commands define and modify the structure of database objects like tables and schemas.
 

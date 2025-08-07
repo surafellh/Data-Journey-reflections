@@ -1,13 +1,13 @@
-# Sprint: Querying Data
+# Querying Data
 
 ## Overview
 This sprint introduced foundational concepts in data management — from understanding how data is stored in memory to creating databases and writing SQL queries.
 
 ---
 
-## Reflections by Subsection
 
-### 2.2 Data Structures [Video]
+
+### Data Structures
 **What I learned**:  
 Primitive data types (int, float, char) are stored in volatile memory. Complex data structures help organize and persist data in non-volatile memory.
 
@@ -16,7 +16,7 @@ This helped me understand why databases exist — to manage structured data beyo
 
 ---
 
-### 2.3 What is a Database? [Video]
+### What is a Database?
 **What I learned**:  
 Databases are structured systems designed to store, retrieve, and manage data efficiently.
 
@@ -25,7 +25,7 @@ I now see databases as the backbone of data analytics, enabling persistent, orga
 
 ---
 
-### 2.4 RDBMS [Slides]
+### RDBMS
 **What I learned**:  
 Relational databases use tables, keys, and relationships to structure data.
 
